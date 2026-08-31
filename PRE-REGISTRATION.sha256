@@ -1,0 +1,44 @@
+b15f472ef72994970957eda1e1ebc53f5480b759eb6ab71e076496145a7fda0e  PRE-REGISTRATION.md
+
+FROZEN 2026-08-24T15:33:01Z
+
+Pre-specified audit plan v3 — KKBox, then τ-bench.
+No data or evaluation code examined prior to this timestamp.
+
+Verify with:
+    shasum -a 256 -c PRE-REGISTRATION.sha256
+
+--------------------------------------------------------------------
+Construction notes, all deliberate.
+
+1. The hash is recorded HERE rather than inside the plan, because writing
+   a document's hash into that document changes the hash. Same two-tier
+   pattern used for the paper's anchored artifacts: payload in one file,
+   attestation in another.
+
+2. The plan contains NO fields to be filled in later. Execution state —
+   versions pinned, hours, results, publication dates — lives in
+   EXECUTION-LOG.md, which is mutable by design.
+
+3. See section 11 of the plan for what the "review" of this document
+   actually was: two rounds of adversarial review by a separate AI model
+   instance. NOT human expert review, NOT peer review, and conferring no
+   warrant. An earlier draft described it as "external specialist review,"
+   which implied a human credential that does not exist. That wording was
+   corrected before publication.
+
+SUPERSEDED HASHES — recorded rather than omitted, because the sequence of
+corrections is itself part of the provenance. Neither was ever published,
+and nothing was read under either.
+
+  15:10:48Z  d80d12fa0035d77c7b927d0d533c0022b4e5748bf6a007cb849c80d61749d7bd
+             (execution table lived inside the plan; would have broken the
+              hash on first use)
+
+  15:18:48Z  b9bc05907a0061815c2c84dbda96fa08d4426800a93bc241b372af082c2525af
+             (described AI adversarial review as "external specialist
+              review" — a credential claim that was not true)
+
+Sections 3-6 of the plan — the structure being tested, the units of
+analysis, the questions, and the decision rule — are immutable from this
+timestamp. Any change is a logged deviation in DEVIATIONS.md.
