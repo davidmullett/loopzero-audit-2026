@@ -65,14 +65,11 @@ cites a path and line range at a pinned SHA.
 
 ## No KKBOX data is published
 
-**None.** No rows, no extracts, no derived datasets, no sample files. §7.B of
-the WSDM Cup 2018 competition rules forbids redistribution, and that is
-respected here without exception.
+None. No rows, no extracts, no derived datasets, no sample files. §7.A of the WSDM Cup 2018 competition rules permits use of the Competition Data for academic research and education and for nothing else; §7.B requires participants not to transmit, duplicate, publish or redistribute it.
 
-The analysis scripts *are* publishable under §8.B, so anyone who has accepted
-the competition rules can obtain their own copy and run them against it. The
-scripts print aggregates only; no user identifier is printed under any code
-path. Point them at your own copy with the `KKBOX_DATA` environment variable.
+The analysis scripts are publishable under §8.B, which permits public sharing of code developed in connection with the Competition Data and deems anything so shared licensed under an eligible open-source licence. These are MIT. Anyone who has accepted the rules can obtain their own copy and point the scripts at it with the KKBOX_DATA environment variable. The scripts print aggregates only; no user identifier is printed under any code path.
+
+Verification transfers; the data does not move.
 
 **Verification transfers; the data does not move.**
 
