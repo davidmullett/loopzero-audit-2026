@@ -65,11 +65,17 @@ cites a path and line range at a pinned SHA.
 
 ## No KKBOX data is published
 
-None. No rows, no extracts, no derived datasets, no sample files. §7.A of the WSDM Cup 2018 competition rules permits use of the Competition Data for academic research and education and for nothing else; §7.B requires participants not to transmit, duplicate, publish or redistribute it.
+None. No rows, no extracts, no derived datasets, no sample files. §7.A of the
+WSDM Cup 2018 competition rules permits use of the Competition Data for
+academic research and education and for nothing else; §7.B requires
+participants not to transmit, duplicate, publish or redistribute it.
 
-The analysis scripts are publishable under §8.B, which permits public sharing of code developed in connection with the Competition Data and deems anything so shared licensed under an eligible open-source licence. These are MIT. Anyone who has accepted the rules can obtain their own copy and point the scripts at it with the KKBOX_DATA environment variable. The scripts print aggregates only; no user identifier is printed under any code path.
-
-Verification transfers; the data does not move.
+The analysis scripts are publishable under §8.B, which permits public sharing
+of code developed in connection with the Competition Data and deems anything
+so shared licensed under an eligible open-source licence. These are MIT.
+Anyone who has accepted the rules can obtain their own copy and point the
+scripts at it with the `KKBOX_DATA` environment variable. The scripts print
+aggregates only; no user identifier is printed under any code path.
 
 **Verification transfers; the data does not move.**
 
@@ -84,6 +90,7 @@ Verification transfers; the data does not move.
 | `DEVIATIONS.md` | all eleven deviations, including the four that reduced what could be claimed |
 | `EXECUTION-LOG.md` | pinning, timings, and the order things happened in |
 | `RELATED-WORK.md` | prior work |
+| `correspondence/` | what was sent to the maintainers, to whom, and when |
 | `scripts/` | the analysis scripts, MIT |
 
 ## Provenance
