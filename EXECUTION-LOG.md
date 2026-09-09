@@ -327,11 +327,11 @@ Email 2 in `maintainer-notifications.md`, sent by private email.
 | Recipient | Address | Status |
 |---|---|---|
 | **Shou-De Lin** — NTU, CSIE | `sdlin@csie.ntu.edu.tw` | ✅ **verified** — `mailto:` on his own NTU page |
-| **Xing Xie** — Microsoft Research Asia | `xingx@microsoft.com` | ⚠️ **probable, unverified** — inferred from his MSR profile slug; no page displayed it in full |
+| **Xing Xie** — Microsoft Research Asia | `xingx@microsoft.com` | ⚠️ **probable, unverified** — inferred from his MSR profile slug; no page displayed it in full — SENT ANYWAY AND BOUNCED, 28 Aug: "the address couldn't be found, or is unable to receive mail." The unverified flag was correct. |
 | **Yian Chen** — KKBOX | — | ❌ no public address; **the draft asks Lin and Xie to forward** |
 | **Yuh-Ming Chiu** — KKBOX | — | ❌ no public address; same |
 
-**Channel — RULED: private email, no Kaggle discussion board post.** Chosen by David on 28 Aug by directing the draft to Gmail. **This is the opposite ruling from Email 1 and the reason for the difference is on the record:** Sierra publishes no contact address and names GitHub Issues as its own channel, so a public issue was the project's documented route; **the WSDM Cup organisers have working email addresses, so no public channel is required to reach them.**
+**Channel — RULED: private email, no Kaggle discussion board post.** Chosen by David on 28 Aug by directing the draft to Gmail. **This is the opposite ruling from Email 1 and the reason for the difference is on the record:** Sierra publishes no contact address and names GitHub Issues as its own channel, so a public issue was the project's documented route; **the WSDM Cup organisers have no published addresses. Two were found by other means; one delivered, one bounced. The route to KKBOX itself was forwarding by Lin or Xie — and that route failed: Xie never received the email, and Lin did not reply. Neither KKBOX organiser was reached. Recorded as a partial discharge of §8.**
 
 > **Consequence, recorded because Email 1's opposite ruling has one too.** Email 2's sentence *"I'd rather fix an error in email than in public"* is **true as sent**, and remains true only while the board is not used. **If the Kaggle discussion board is ever used for this, that line must be rewritten first.**
 
