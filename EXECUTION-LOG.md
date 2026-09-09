@@ -320,13 +320,13 @@ The repository publishes **no `SECURITY.md`** and **no maintainer contact addres
 
 Email 2 in `maintainer-notifications.md`, sent by private email.
 
-> ## ✅ §8 IS NOW SATISFIED FOR BOTH INSTRUMENTS.
+> ## ⚠️ §8 — SATISFIED FOR τ-BENCH, PARTIALLY DISCHARGED FOR KKBOX. Corrected 9 September 2026.
 >
-> ⚠️ §8 — SATISFIED FOR τ-BENCH, PARTIALLY DISCHARGED FOR KKBOX. Corrected 9 September 2026.
+> **Superseded claim, retained rather than deleted:** ~~"✅ §8 IS NOW SATISFIED FOR BOTH INSTRUMENTS."~~ Written 28 August. It was wrong about KKBOX.
 >
-> τ-bench: contacted 28 Aug via the channel the repository documents, followed up privately 31 Aug. No reply. Satisfied.
+> **τ-bench:** contacted 28 Aug via the channel the repository documents, followed up privately 31 Aug. No reply. **Satisfied.**
 >
-> KKBOX: the party §8 names was never reached. One address delivered and did not reply, one bounced, and the two KKBOX organisers had no findable address. The forwarding route the draft relied on failed with them. See the delivery table below and `correspondence/README.md`.
+> **KKBOX:** the party §8 names was never reached. One address delivered and did not reply, one bounced, and the two KKBOX organisers had no findable address. The forwarding route the draft relied on failed with them. See the delivery table below and `correspondence/README.md`.
 >
 > **Both correction windows close 6 September 2026. Publication due 10 September.** The §8 no-commercial-use constraint runs until publication **and** the windows have both closed.
 
