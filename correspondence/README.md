@@ -39,7 +39,11 @@ This directory holds **what was sent, when, and to whom**, so that the window ca
 >
 > > **🔴 ADDRESSES REMOVED FROM PUBLIC SURFACES — 9 September 2026.** Both were printed here and on `loopzero.org/audit` until today. **Xing Xie's was never public**: `EXECUTION-LOG.md` records it as *"probable, unverified — inferred from his MSR profile slug; no page displayed it in full."* **Publishing a derived, non-working address attached to a named person, on an indexed page, asserted something the record itself says could not be established.** Shou-De Lin's was published by him but was doing no work on a public page.
 > >
-> > **Rule: names and outcomes, never third-party addresses, on any public surface.** Nothing verifiable is lost — an email delivery is not checkable by a reader, so the addresses were never evidence. **The `To:` header in `wsdm-cup-2018-email.md` is left intact: it is a verbatim copy of a sent message, and redacting it would misrepresent the artifact.**
+> > **Rule: names and outcomes, never third-party addresses, on any public surface.** Nothing verifiable is lost — an email delivery is not checkable by a reader, so the addresses were never evidence. **Recipients are identified by name and affiliation throughout, which is what §8's discharge actually turns on.**
+> >
+> > **⚠️ CORRECTION, same day.** An earlier version of this note asserted that *"the `To:` header in `wsdm-cup-2018-email.md` is left intact."* **That file has no `To:` header** — it records channel, date and subject only. The sentence described an artifact that does not exist and has been removed. **Written by HQ, caught by the executing agent while applying it.**
+> >
+> > **Extended 9 Sept to `tau-bench-followup-2026-08-31.md`**, which carried two Sierra addresses taken from the τ²-Bench paper's own author block. **Those were genuinely published by their owners — unlike Xing Xie's — and are removed anyway.** A rule with a carve-out for author-block addresses is one that gets misapplied later, the record already identifies the recipients as *"two named authors of the τ²-Bench paper"* and cites arXiv:2506.07982v1, and removing two while leaving two invites the obvious question.
 >
 > **Recorded as a PARTIAL discharge of §8.** The effort was genuine — all four identified, both findable addresses used — but the party the plan names was not reached, and the write-up says so in those words.
 >

@@ -2,8 +2,8 @@
 
 **Channel:** private email
 **Sent:** 31 August 2026, 17:39 UTC
-**To:** Victor Barres `victor@sierra.ai` — first author, τ²-Bench
-**Cc:** Karthik Narasimhan `karthik@sierra.ai`
+**To:** Victor Barres — first author, τ²-Bench
+**Cc:** Karthik Narasimhan
 **Subject:** *tau2-bench issue #497 — correction window closes Sunday*
 
 **Why.** Issue #497 had no reply, no labels and no assignee after five days, on a repository carrying roughly 90 open issues and 97 open pull requests. **No new claims were made** — the note points at the issue, restates the closing date, and asks one question with a one-line answer.
