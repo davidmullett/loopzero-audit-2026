@@ -26,16 +26,20 @@ This directory holds **what was sent, when, and to whom**, so that the window ca
 >
 > **That sentence was wrong on both halves, and it stood in this file for eleven days.**
 >
-> **One of the two addresses did not work.** `xingx@microsoft.com` returned a hard bounce — *"the address couldn't be found, or is unable to receive mail"* — **twelve seconds after sending, on 28 August.** The notice landed in the same inbox that logged the send. **It was not noticed until 8 September, publication day.**
+> **One of the two addresses did not work.** **The address used for Xing Xie** returned a hard bounce — *"the address couldn't be found, or is unable to receive mail"* — **twelve seconds after sending, on 28 August.** The notice landed in the same inbox that logged the send. **It was not noticed until 8 September, publication day.**
 >
 > **And "the organisers" overstates who was reached.** WSDM Cup 2018 had four: Shou-De Lin (NTU), Xing Xie (Microsoft), and **Yian Chen and Yuh-Ming Chiu, both of KKBOX**. The competition site names all four and publishes no addresses. **§8 names *"the dataset's publishers (KKBox)"* — and neither KKBOX organiser had a findable address, so neither was contacted at all.**
 >
 > | Recipient | Outcome |
 > |---|---|
-> | **Shou-De Lin** · `sdlin@csie.ntu.edu.tw` | delivered · **no reply** |
-> | **Xing Xie** · `xingx@microsoft.com` | 🔴 **bounced, 28 Aug** |
+> | **Shou-De Lin** · National Taiwan University | delivered · **no reply** |
+> | **Xing Xie** · Microsoft | 🔴 **bounced, 28 Aug** — the address used was **inferred from his institutional profile URL and never published by him**, and may not be his |
 > | **Yian Chen**, KKBOX | no public address · **not contacted** |
 > | **Yuh-Ming Chiu**, KKBOX | no public address · **not contacted** |
+>
+> > **🔴 ADDRESSES REMOVED FROM PUBLIC SURFACES — 9 September 2026.** Both were printed here and on `loopzero.org/audit` until today. **Xing Xie's was never public**: `EXECUTION-LOG.md` records it as *"probable, unverified — inferred from his MSR profile slug; no page displayed it in full."* **Publishing a derived, non-working address attached to a named person, on an indexed page, asserted something the record itself says could not be established.** Shou-De Lin's was published by him but was doing no work on a public page.
+> >
+> > **Rule: names and outcomes, never third-party addresses, on any public surface.** Nothing verifiable is lost — an email delivery is not checkable by a reader, so the addresses were never evidence. **The `To:` header in `wsdm-cup-2018-email.md` is left intact: it is a verbatim copy of a sent message, and redacting it would misrepresent the artifact.**
 >
 > **Recorded as a PARTIAL discharge of §8.** The effort was genuine — all four identified, both findable addresses used — but the party the plan names was not reached, and the write-up says so in those words.
 >

@@ -332,8 +332,8 @@ Email 2 in `maintainer-notifications.md`, sent by private email.
 
 | Recipient | Address | Status |
 |---|---|---|
-| **Shou-De Lin** — NTU, CSIE | `sdlin@csie.ntu.edu.tw` | ✅ **verified** — `mailto:` on his own NTU page |
-| **Xing Xie** — Microsoft Research Asia | `xingx@microsoft.com` | ⚠️ **probable, unverified** — inferred from his MSR profile slug; no page displayed it in full — SENT ANYWAY AND BOUNCED, 28 Aug: "the address couldn't be found, or is unable to receive mail." The unverified flag was correct. |
+| **Shou-De Lin** — NTU, CSIE | *withheld* | ✅ **verified** — `mailto:` on his own NTU page |
+| **Xing Xie** — Microsoft Research Asia | *withheld* | ⚠️ **probable, unverified** — inferred from his MSR profile slug; no page displayed it in full — SENT ANYWAY AND BOUNCED, 28 Aug: "the address couldn't be found, or is unable to receive mail." The unverified flag was correct. |
 | **Yian Chen** — KKBOX | — | ❌ no public address; **the draft asks Lin and Xie to forward** |
 | **Yuh-Ming Chiu** — KKBOX | — | ❌ no public address; same |
 
