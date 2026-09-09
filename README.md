@@ -9,7 +9,7 @@ instrument was opened**. Both came back negative for the mechanism the plan
 went looking for. Seven other findings are reported, each carrying an evidence
 grade.
 
-**Write-up:** *[URL — added on publication]*
+**Write-up:** [loopzero.org/audit](https://loopzero.org/audit)
 
 **Registration:** [osf.io/ksm3n](https://osf.io/ksm3n) · DOI
 [10.17605/OSF.IO/KSM3N](https://doi.org/10.17605/OSF.IO/KSM3N) · timestamped
