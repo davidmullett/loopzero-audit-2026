@@ -322,6 +322,12 @@ Email 2 in `maintainer-notifications.md`, sent by private email.
 
 > ## ✅ §8 IS NOW SATISFIED FOR BOTH INSTRUMENTS.
 >
+> ⚠️ §8 — SATISFIED FOR τ-BENCH, PARTIALLY DISCHARGED FOR KKBOX. Corrected 9 September 2026.
+>
+> τ-bench: contacted 28 Aug via the channel the repository documents, followed up privately 31 Aug. No reply. Satisfied.
+>
+> KKBOX: the party §8 names was never reached. One address delivered and did not reply, one bounced, and the two KKBOX organisers had no findable address. The forwarding route the draft relied on failed with them. See the delivery table below and `correspondence/README.md`.
+>
 > **Both correction windows close 6 September 2026. Publication due 10 September.** The §8 no-commercial-use constraint runs until publication **and** the windows have both closed.
 
 | Recipient | Address | Status |
@@ -331,7 +337,7 @@ Email 2 in `maintainer-notifications.md`, sent by private email.
 | **Yian Chen** — KKBOX | — | ❌ no public address; **the draft asks Lin and Xie to forward** |
 | **Yuh-Ming Chiu** — KKBOX | — | ❌ no public address; same |
 
-**Channel — RULED: private email, no Kaggle discussion board post.** Chosen by David on 28 Aug by directing the draft to Gmail. **This is the opposite ruling from Email 1 and the reason for the difference is on the record:** Sierra publishes no contact address and names GitHub Issues as its own channel, so a public issue was the project's documented route; **the WSDM Cup organisers have no published addresses. Two were found by other means; one delivered, one bounced. The route to KKBOX itself was forwarding by Lin or Xie — and that route failed: Xie never received the email, and Lin did not reply. Neither KKBOX organiser was reached. Recorded as a partial discharge of §8.**
+**Channel — RULED: private email, no Kaggle discussion board post.** Chosen by David on 28 Aug by directing the draft to Gmail. **This is the opposite ruling from Email 1 and the reason for the difference is on the record:** Sierra publishes no contact address and names GitHub Issues as its own channel, so a public issue was the project's documented route; the WSDM Cup organisers have no published addresses. Two were found by other means; one delivered, one bounced. The route to KKBOX itself was forwarding by Lin or Xie — and that route failed: Xie never received the email, and Lin did not reply. **Neither KKBOX organiser was reached. Recorded as a partial discharge of §8.**
 
 > **Consequence, recorded because Email 1's opposite ruling has one too.** Email 2's sentence *"I'd rather fix an error in email than in public"* is **true as sent**, and remains true only while the board is not used. **If the Kaggle discussion board is ever used for this, that line must be rewritten first.**
 
