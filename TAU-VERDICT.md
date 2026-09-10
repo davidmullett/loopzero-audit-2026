@@ -88,15 +88,18 @@ An errored trial carries `reward=0.0`, so `is_successful` is `False`; it decreme
 
 **What survives is A's shape, an order of magnitude smaller:**
 
+> **🔴 CORRECTED 10 September 2026.** This table omitted the `mock` row while carrying a pooled figure that included it, so it summed to **2,546 tasks and 10 findings against a stated 11 of 2,556**. The row is restored from `TAU-ANSWERS.md:183`. **Found while writing the manuscript that reports this audit, not by a reader.** The branch assignment is unaffected: **NEGATIVE on either reading.**
+
 | Domain | Inaction-satisfiable | Share |
 |---|---|---|
 | retail | 6 / 114 | **5.26% [I]** |
 | banking_knowledge | 4 / 97 | 4.12% **[I]** *(4 of 9 in its `ACTION`-basis subset)* |
 | airline | 0 / 50 | **0.00% [I]** |
 | telecom | 0 / 2,285 | **0.00% [I]** |
+| mock *(fixture)* | 1 / 10 | **10.00% [I]** |
 | **pooled** | **11 / 2,556** | **0.43% [I]** |
 
-**(a) and (b) hold; (c) fails identically** — the trial is over. **MISSCORING**, at 0.43% pooled, retail the only domain clearing 5% and doing so **by 0.26 points on six tasks, on [I] evidence.**
+**(a) and (b) hold; (c) fails identically** — the trial is over. **MISSCORING**, at 0.43% pooled, ~~retail the only domain clearing 5%~~ — **corrected 10 Sept 2026: two domains clear 5%, mock at 10.00% and retail at 5.26%** — retail clearing it **by 0.26 points on six tasks, on [I] evidence**, and mock being the ten-task fixture whose standing in a suite-level threshold this audit does not resolve. **NEGATIVE on either reading.**
 
 **The only threshold-relevant figures in the entire audit graded [E]** are B's default-pass routes — 0.00% and 0.04%. **Both below threshold. Nothing that clears the threshold anywhere in this audit is read rather than inferred.**
 

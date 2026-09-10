@@ -183,11 +183,13 @@ if task.evaluation_criteria is None:
 | mock *(fixture)* | 10 | 3 | 1 | 10.00% **[I]** |
 | **total** | **2,556** | — | **11** | **0.43%** **[I]** |
 
-**Against the plan's 5%-of-tasks threshold, one domain clears it: retail at 5.26%** — six of the 112 tasks whose basis is `('DB','NL_ASSERTION')`. `banking_knowledge` is below threshold overall at 4.12%, but **4 of its 9 `ACTION`-basis tasks (44.44%)** are inaction-satisfiable. **airline and telecom are clean at zero.** **[I]**
+**Against the plan's 5%-of-tasks threshold, ~~one domain clears it: retail at 5.26%~~** — six of the 112 tasks whose basis is `('DB','NL_ASSERTION')`. `banking_knowledge` is below threshold overall at 4.12%, but **4 of its 9 `ACTION`-basis tasks (44.44%)** are inaction-satisfiable. **airline and telecom are clean at zero.** **[I]**
 
-**So B's Q7 surface is real but an order of magnitude smaller than A's** — 0.43% against 14.55% — and it is concentrated in two domains rather than general. **Taken with the termination gate at `evaluator.py:119-129`, which already scores every abnormal termination 0.0, B closes most of the route A leaves open.**
+> **🔴 Corrected 10 Sept 2026: two domains clear the threshold — mock at 10.00% and retail at 5.26%.** mock was omitted from this sentence and from the verdict's table. **Whether a ten-task fixture domain belongs in a suite-level threshold is a question the frozen plan did not anticipate and this audit does not resolve; both readings are now reported.** Neither changes the branch.
 
-**⚠️ The disclosed incentive ran the other way.** D-7 recorded, before this was run, that the expected direction was to **strengthen** a positive-shaped finding. **It mostly did not.** Four of five domains came back at or near zero and the pooled figure is 0.43%. The one figure that clears threshold — retail's 5.26% — clears it by 0.26 points on 6 tasks, and is **[I]**, not **[E]**.
+**So B's Q7 surface is real but an order of magnitude smaller than A's** — 0.43% against 14.55% — and it is ~~concentrated in two domains~~ **concentrated in three domains — corrected 10 Sept 2026: retail, `banking_knowledge` and mock; the fixture was omitted here too** rather than general. **Taken with the termination gate at `evaluator.py:119-129`, which already scores every abnormal termination 0.0, B closes most of the route A leaves open.**
+
+**⚠️ The disclosed incentive ran the other way.** D-7 recorded, before this was run, that the expected direction was to **strengthen** a positive-shaped finding. **It mostly did not.** Four of five domains came back at or near zero and the pooled figure is 0.43%. ~~The one figure that clears threshold — retail's 5.26%~~ **corrected 10 Sept 2026: two figures clear it, mock's 10.00% and retail's 5.26%** — retail clears it by 0.26 points on 6 tasks, and **both are [I], not [E]**.
 
 ---
 
